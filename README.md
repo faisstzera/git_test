@@ -1,2 +1,2 @@
 # git_test
-Aprendendo comandos b
+Aprendendo comandos básicos do git
